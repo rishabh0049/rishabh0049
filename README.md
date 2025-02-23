@@ -15,11 +15,11 @@
 
 ---
 
-🚀 About Me
-Ever wondered what happens when creativity meets code? That’s where I thrive! I'm a Web Developer passionate about crafting seamless, interactive, and dynamic web experiences. Whether it's building intuitive UIs, solving complex problems, or optimizing performance, I’m all about pushing the limits of what’s possible on the web.
+🚀 About Me <br/> <br/>
+Ever wondered what happens when creativity meets code? That’s where I thrive! I'm a Web Developer passionate about crafting seamless, interactive, and dynamic web experiences. Whether it's building intuitive UIs, solving complex problems, or optimizing performance, I’m all about pushing the limits of what’s possible on the web. <br/>
 
-🔹 Experienced in building applications with React, Node.js, and Next.js.
-🔹 Love experimenting with the latest web technologies and trends.
+🔹 Experienced in building applications with React, Node.js, and Next.js. <br/>
+🔹 Love experimenting with the latest web technologies and trends. <br/>
 🔹 Always up for collaborations that challenge the status quo.
 
 When I’m not immersed in code, you’ll probably find me geeking out over new tech, contributing to open-source projects, or sipping a strong cup of coffee while brainstorming the next big idea!
