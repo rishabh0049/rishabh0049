@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Visitor Count">
 </p>
-
-🚀 About Me <br/> <br/>
 Ever wondered what happens when creativity meets code? That’s where I thrive! I'm a Web Developer passionate about crafting seamless, interactive, and dynamic web experiences. Whether it's building intuitive UIs, solving complex problems, or optimizing performance, I’m all about pushing the limits of what’s possible on the web. <br/>
 
 🔹 Experienced in building applications with React, Node.js, and Next.js. <br/>
