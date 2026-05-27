@@ -74,15 +74,6 @@ const rishabh = {
 
 ---
 
-## 🧠 Currently Exploring
-
-* Event-driven architectures
-* AI agents & workflow automation
-* Distributed queues & async systems
-* Scalable backend patterns
-* Cloud-native infrastructure
-
----
 
 ## 🌐 Connect With Me
 
