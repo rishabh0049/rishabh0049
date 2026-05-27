@@ -1,26 +1,111 @@
-# Hey, I'm Rishabh 👋
+# Hi, I'm Rishabh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=rishabh0049&style=flat-square&color=0a66c2)
+<div align="center">
 
-Software engineer specialising in distributed systems, cloud infrastructure and AI-powered automation.
-I build things that stay reliable under pressure and are easy to reason about when they need to change.
-
-When I'm not pushing code, I play chess to embarrass myself. ♟️
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Distributed+Systems+Engineer;Cloud+Infrastructure+Architect;AI+Automation+Builder;Building+Systems+That+Survive+Production" />
 
 
-### 🛠 Stack
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,js,mongodb,postgres,docker,git,github,githubactions,vscode,postman,linux,firebase&perline=8" />
+<br/>
+<br/>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
-![Alexa](https://img.shields.io/badge/Alexa-00CAFF?style=flat-square&logo=amazon-alexa&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=rishabh0049&style=for-the-badge&color=0a66c2" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```ts
+const rishabh = {
+  role: "Software Engineer",
+
+  focus: [
+    "Distributed Systems",
+    "Cloud Infrastructure",
+    "Backend Engineering",
+    "AI Automation"
+  ],
+
+  stack: {
+    backend: ["Node.js", "TypeScript", "PostgreSQL"],
+    frontend: ["React", "Next.js"],
+    cloud: ["AWS Lambda", "SQS", "DynamoDB"],
+    infra: ["Docker", "GitHub Actions", "Linux"]
+  },
+
+  philosophy:
+    "Build systems that remain reliable under scale and easy to evolve later.",
+
+  funFact:
+    "I play chess just enough to stay humbled."
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,mongodb,postgres,docker,git,github,githubactions,linux,firebase,vscode,postman&perline=8" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0049&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 
-### 🌐 Find me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-saini-swe) &nbsp; [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015944947dafe71227?mp_source=share) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh0049)
+## 🧠 Currently Exploring
+
+* Event-driven architectures
+* AI agents & workflow automation
+* Distributed queues & async systems
+* Scalable backend patterns
+* Cloud-native infrastructure
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rishabh-saini-swe">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~015944947dafe71227?mp_source=share">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/rishabh0049">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Good systems are boring in production.”
+
+</div>
