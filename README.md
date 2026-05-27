@@ -48,7 +48,7 @@ const rishabh = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,mongodb,postgres,docker,git,github,githubactions,linux,firebase,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,nextjs,mongodb,postgres,docker,git,github,githubactions,linux,firebase,vscode,postman,redis&perline=8" />
 
 <br/>
 <br/>
@@ -58,6 +58,7 @@ const rishabh = {
 <img src="https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+
 
 </div>
 
