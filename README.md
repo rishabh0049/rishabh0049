@@ -80,11 +80,11 @@ const rishabh = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rishabh-saini-swe">
+<a href="https://www.linkedin.com/in/rishabh-saini-sde">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.upwork.com/freelancers/~015944947dafe71227?mp_source=share">
+<a href="https://www.upwork.com/freelancers/~015944947dafe71227">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
