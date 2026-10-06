@@ -64,12 +64,12 @@ const rishabh = {
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh0049&theme=tokyo-night&hide_border=true" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rishabh0049&theme=tokyonight&hide_border=true" />
+</p>
 </div>
 
 
